@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+@layer base {
+  body, html {
+    @apply font-sans m-0 p-0 bg-indigo-500;
+  }
+
+  body {
+    @apply h-svh;
+  }
+
+}
